@@ -67,7 +67,11 @@ Requirements
 <img src="https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/chatbot.png">
 
 ### How it works? See:)
-<img src="https://youtu.be/o_Ji7Up4RSM">
+
+
+https://github.com/user-attachments/assets/8e227e92-7c40-4744-83d7-91a6b6da8406
+
+
 
 
 ### Notes
